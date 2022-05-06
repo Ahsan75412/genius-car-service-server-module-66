@@ -15,18 +15,18 @@
   * go to dashboard > click current project > Settings > click Revel Config 
   * copy pest config vars from your .env file
   * make sure you have  whitelisted all ip address to access mongoDB
-  *............................................................. 
-    *UPDATE Server New Changes:
+    *............................................................. 
+    * UPDATE Server New Changes:
     *.............................................................
     * Make Change . 
     * make sure you : git add commit and push
     * git push heroku main
   *.................................................................. 
-  * Connect Server with Client
-  * 
-  *
-  *
-  *
+  * Connect Server with Client and deploy to Heroku
+  * ............................................................. 
+  * replace localhost by heroku link
+  * npm run build
+  * firebase deploy
   *
   *
   *
